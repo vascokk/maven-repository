@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.beam</groupId>
+  <artifactId>beam-runners-flink_2.10-examples</artifactId>
+  <versioning>
+    <versions>
+      <version>0.7.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170329153457</lastUpdated>
+  </versioning>
+</metadata>

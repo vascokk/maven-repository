@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.beam</groupId>
+  <artifactId>beam-runners-google-cloud-dataflow-java</artifactId>
+  <versioning>
+    <versions>
+      <version>0.7.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170329153238</lastUpdated>
+  </versioning>
+</metadata>
